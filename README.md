@@ -6,4 +6,8 @@ First change from my development environment!
 
 This was added from Github!
 
+<<<<<<< HEAD
 Another line added from VS Code
+=======
+Another line added from GitHub
+>>>>>>> 579d72afcc9a709dd7c993b75a5a3e9b568f0c82
