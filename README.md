@@ -6,4 +6,4 @@ First change from my development environment!
 
 This was added from Github!
 
-Another line added from VS Code and GitHub
+Another line added from VS Code
