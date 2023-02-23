@@ -5,3 +5,5 @@ First change from my development environment!
 (Going to just call it VS Code from now on because that's what I'm using and it's less typing)
 
 This was added from Github!
+
+Another line added from VS Code
