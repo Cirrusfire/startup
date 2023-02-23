@@ -8,7 +8,7 @@ This was added from Github!
 
 Another line added from VS Code and GitHub
 
-###### Notes from the GitHub Assignment----
+#### Notes from the GitHub Assignment----
 ```
 I learned about the git commands to bring new files or changes from GitHub to VS Code such as:
     > git pull
